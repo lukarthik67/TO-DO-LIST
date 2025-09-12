@@ -1,5 +1,4 @@
-# code
-# to do list
+```python
 to_do_list = []
 def add_task ():
     task = input("enter  task  wants to add: ").strip()
@@ -37,3 +36,4 @@ while True:
         case 3 :  show_task()
         case 4 :  print(" Goodbye! Thanks for using the To-Do List.")
         case _ :  print(" Invalid choice. Please try again.")
+```
