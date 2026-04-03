@@ -4,7 +4,7 @@
  
 # Step-by-step algorithm 
       
-Start — create an empty list to_do_list = [].<br>
+Start — create an empty list to_do_list = [].<br> 
 
 Loop — begin an infinite loop to keep the menu running until the user quits.<br>
 
