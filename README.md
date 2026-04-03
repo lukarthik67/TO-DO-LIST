@@ -3,6 +3,7 @@
 *To-Do List* -– A Python-based task manager where you can add, view, and remove tasks in a loop-driven menu using functions and if-else logic.  
  
 # Step-by-step algorithm 
+# Easy to understand
       
 Start — create an empty list to_do_list = [].<br>
 
